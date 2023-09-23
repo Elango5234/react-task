@@ -1,0 +1,4 @@
+.main{
+    @apply backdrop-blur-[25px] rounded-[0rem_0rem_0.9375rem_0.9375rem];
+    background: rgba(0, 0, 0, 0.30);
+}

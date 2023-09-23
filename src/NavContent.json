@@ -1,0 +1,40 @@
+[
+
+    {
+        "id":"1",
+        "image":"./images/Ellipse 14.png",
+        "name":"UXUI Topics",
+        "u_id":"@Topics_ui",
+        "icon":"./images/Icon.png",
+        "description":"Realistic UI design in mobile application..",
+        "description2":"#uxui #uidesign #application",
+        "content":"./images/Content1.png",
+        "frame1":"./images/Frame9.png",
+        "text1":"14k",
+        "frame2":"./images/Frame10.png",
+        "text2":"2.2k",
+        "frame3":"./images/Frame11.png",
+        "info":"2 days ago"
+        
+    },
+
+    {
+        "id":"2",
+        "image":"./images/Ellipse 13.png",
+        "name":"Art Academy",
+        "u_id":"@Artist",
+        "icon":"./images/Icon.png",
+        "description":"Flower drawing & painting, Artist :",
+        "description2":"@Hameed #Art #Artist #Painting",
+        "content":"./images/Contentnew2.png",
+        "frame1":"./images/Frame9.png",
+        "text1":"14k",
+        "frame2":"./images/Frame10.png",
+        "text2":"2.2k",
+        "frame3":"./images/Frame11.png",
+        "info":"2 days ago"
+    }
+
+   
+    
+]

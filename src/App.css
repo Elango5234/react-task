@@ -1,0 +1,8 @@
+.scrollbar-hidden::-webkit-scrollbar {
+  width: 0;
+  display: none; /* This is for older versions of webkit browsers */
+}
+
+.scrollbar-hidden {
+  background: transparent; /* Set the track background color to transparent */
+}
