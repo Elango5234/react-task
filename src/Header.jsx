@@ -23,16 +23,15 @@ function Header() {
   return (
     <div>
       <div className="h-14 pr-40 flex bg-red-300 items-center justify-evenly">
-        <a  href ="#">
+        <a href="#">
           <div className="pr-[125px]">
-          <img className="h-8" src="./images/Plonk.png"/>
+            <img className="h-8" src="/images/Plonk.png" />
           </div>
         </a>
         <div className="flex">
           <div className="flex items-center">
             <img
               className="space-x-10 h-10 w-10 ml-4 rounded-full"
-            
               src="./images/Elipse1.png"
               alt="Profile Picture"
             />
