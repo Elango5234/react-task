@@ -8,7 +8,7 @@ import TopBar from "./TopBar";
 
 function App() {
   return (
-    <div className="bg-red-200">
+    <div className="bg-red-200 h-screen">
       <Header />
       <div className="flex justify-between" style={{ width: "100%"}}>
         <div className="flex" style={{ width: "22%"}}>
